@@ -1,0 +1,5 @@
+Python-vagrant is a python module that provides a thin wrapper around the
+vagrant command line executable, allowing programmatic control of Vagrant
+virtual machines (boxes).
+
+WWW: https://pypi.python.org/pypi/python-vagrant
